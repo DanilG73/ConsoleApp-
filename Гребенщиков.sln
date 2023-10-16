@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Гребенщиков", "Гребенщиков.csproj", "{EE3AD703-A8F7-4841-AA85-AE3C04EB05E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE3AD703-A8F7-4841-AA85-AE3C04EB05E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3AD703-A8F7-4841-AA85-AE3C04EB05E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3AD703-A8F7-4841-AA85-AE3C04EB05E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3AD703-A8F7-4841-AA85-AE3C04EB05E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B56F101-738E-4BD0-B6A9-3EA5A4394E09}
+	EndGlobalSection
+EndGlobal
